@@ -48,27 +48,6 @@
 **Deployment:**
 - ▲ Vercel Hosting
 
----
-
-## 📂 Project Structure
-├── 📁 public/
-├── 📁 src/
-│ ├── 📁 components/
-│ │ ├── 📄 Navbar.jsx
-│ │ ├── 📄 Footer.jsx
-│ │ └── 📄 ...
-│ ├── 📁 pages/
-│ │ ├── 📄 Home.jsx
-│ │ ├── 📄 Hosting.jsx
-│ │ ├── 📄 Domain.jsx
-│ │ ├── 📄 About.jsx
-│ │ └── 📄 Contact.jsx
-│ ├── 📄 App.jsx
-│ └── 📄 index.css
-├── 📄 package.json
-└── 📄 README.md
-
----
 
 ## 📥 Installation & Setup
 
