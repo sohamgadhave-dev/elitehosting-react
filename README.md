@@ -51,3 +51,48 @@
 ---
 
 ## 📂 Project Structure
+Elitehosting-Website/
+├── public/
+├── src/
+│ ├── components/
+│ │ ├── Navbar.jsx
+│ │ ├── Footer.jsx
+│ │ └── …
+│ ├── pages/
+│ │ ├── Home.jsx
+│ │ ├── Hosting.jsx
+│ │ ├── Domain.jsx
+│ │ ├── About.jsx
+│ │ └── Contact.jsx
+│ ├── App.jsx
+│ └── index.css
+├── package.json
+└── README.md
+
+
+---
+
+## 📥 Installation & Setup
+
+```bash
+# Clone the repo
+git clone https://github.com/sohamgadhave-dev/elitehosting-react.git
+cd elitehosting-react
+
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
+
+# Build for production
+npm run build
+
+
+<p align="center">
+  💖 If you like <b>EliteHosting</b>, don’t forget to ⭐ star the repo & follow me for more! 🚀  
+  <br/><br/>
+  <a href="https://github.com/sohamgadhave-dev">
+    <img src="https://img.shields.io/badge/Follow-%40sohamgadhave--dev-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
