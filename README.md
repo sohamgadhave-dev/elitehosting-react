@@ -51,24 +51,22 @@
 ---
 
 ## 📂 Project Structure
-Elitehosting-Website/
-├── public/
-├── src/
-│ ├── components/
-│ │ ├── Navbar.jsx
-│ │ ├── Footer.jsx
-│ │ └── …
-│ ├── pages/
-│ │ ├── Home.jsx
-│ │ ├── Hosting.jsx
-│ │ ├── Domain.jsx
-│ │ ├── About.jsx
-│ │ └── Contact.jsx
-│ ├── App.jsx
-│ └── index.css
-├── package.json
-└── README.md
-
+├── 📁 public/
+├── 📁 src/
+│ ├── 📁 components/
+│ │ ├── 📄 Navbar.jsx
+│ │ ├── 📄 Footer.jsx
+│ │ └── 📄 ...
+│ ├── 📁 pages/
+│ │ ├── 📄 Home.jsx
+│ │ ├── 📄 Hosting.jsx
+│ │ ├── 📄 Domain.jsx
+│ │ ├── 📄 About.jsx
+│ │ └── 📄 Contact.jsx
+│ ├── 📄 App.jsx
+│ └── 📄 index.css
+├── 📄 package.json
+└── 📄 README.md
 
 ---
 
@@ -86,13 +84,7 @@ npm install
 npm run dev
 
 # Build for production
-npm run build
+npm run build 
 
 
-<p align="center">
-  💖 If you like <b>EliteHosting</b>, don’t forget to ⭐ star the repo & follow me for more! 🚀  
-  <br/><br/>
-  <a href="https://github.com/sohamgadhave-dev">
-    <img src="https://img.shields.io/badge/Follow-%40sohamgadhave--dev-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
+
